@@ -1,0 +1,15 @@
+table,th,td{
+  border:1px solid black
+}
+table{
+  margin-top: 100px;
+  margin-left: 500px;
+ 
+}
+form{
+  margin-left: 500px;
+  margin-top: 20px;
+}
+td{
+  height: 20px;
+}
